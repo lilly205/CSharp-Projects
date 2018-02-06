@@ -1,0 +1,9 @@
+C:\Users\Levi\Desktop\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Levi\Desktop\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\Levi\Desktop\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Levi\Desktop\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Levi\Desktop\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Levi\Desktop\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\Levi\Desktop\C#\CIT265_Lilly_L_A1\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Levi\Desktop\C#\CIT265_Lilly_L_A1\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Levi\Desktop\C#\CIT265_Lilly_L_A1\Assignment1\Assignment1\obj\Debug\Assignment1.pdb

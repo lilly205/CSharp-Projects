@@ -1,0 +1,9 @@
+C:\Users\Levi\Desktop\LillyL_CIT265_A4\LillyL_CIT265_A4\bin\Debug\LillyL_CIT265_A4.exe.config
+C:\Users\Levi\Desktop\LillyL_CIT265_A4\LillyL_CIT265_A4\bin\Debug\LillyL_CIT265_A4.exe
+C:\Users\Levi\Desktop\LillyL_CIT265_A4\LillyL_CIT265_A4\bin\Debug\LillyL_CIT265_A4.pdb
+C:\Users\Levi\Desktop\LillyL_CIT265_A4\LillyL_CIT265_A4\obj\Debug\LillyL_CIT265_A4.csprojResolveAssemblyReference.cache
+C:\Users\Levi\Desktop\LillyL_CIT265_A4\LillyL_CIT265_A4\obj\Debug\LillyL_CIT265_A4.exe
+C:\Users\Levi\Desktop\LillyL_CIT265_A4\LillyL_CIT265_A4\obj\Debug\LillyL_CIT265_A4.pdb
+C:\Users\Levi\Desktop\C#\CIT265_Lilly_L_A4\LillyL_CIT265_A4\LillyL_CIT265_A4\bin\Debug\LillyL_CIT265_A4.exe.config
+C:\Users\Levi\Desktop\C#\CIT265_Lilly_L_A4\LillyL_CIT265_A4\LillyL_CIT265_A4\obj\Debug\LillyL_CIT265_A4.exe
+C:\Users\Levi\Desktop\C#\CIT265_Lilly_L_A4\LillyL_CIT265_A4\LillyL_CIT265_A4\obj\Debug\LillyL_CIT265_A4.pdb
